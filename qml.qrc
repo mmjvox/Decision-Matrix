@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>SimpleHeader.qml</file>
+        <file>ExpandableHeder.qml</file>
+        <file>SimpleCelll.qml</file>
+        <file>ExpandableCell.qml</file>
+        <file>RippleButton.qml</file>
+        <file>AHP.qml</file>
+        <file>AHP_SimpleCell.qml</file>
+        <file>AHP_FractionEdit.qml</file>
+        <file>AHP_EMPTY.qml</file>
+        <file>AHP_NamesEdit.qml</file>
+        <file>AHP_ITEM.qml</file>
+        <file>AHP_Add_BTN.qml</file>
+        <file>AHP_Add_New.qml</file>
+        <file>SmallButton.qml</file>
+        <file>DecisionMatrix.qml</file>
+        <file>struct.json</file>
+    </qresource>
+</RCC>
