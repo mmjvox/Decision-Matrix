@@ -1,4 +1,4 @@
 # Decision-Matrix
 a dynamical Decision Matrix
 
-![](https://github.com/mmjvox/Decision-Matrix/raw/main/screencapture.png)
+![](https://raw.githubusercontent.com/mmjvox/Decision-Matrix/main/screencapture1.png)
